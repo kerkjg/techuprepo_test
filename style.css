@@ -14,14 +14,21 @@ h1 {
 }
 */
 
+/*
 h1 {
     color: red;
 }
+*/
 
+/*annote fullstop for class */
 .title {
     background-color: gray;
+    font-family: 'Segoe UI';
 }
 
+/*annote # hash for id */
 #important {
     color: yellow;
 }
+
+
